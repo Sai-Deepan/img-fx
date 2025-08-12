@@ -13,7 +13,7 @@ It’s designed for speed, precision, and a clean, modern GUI
 
 ---
 
-## Installatio
+## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com//img-fx.git
@@ -21,40 +21,43 @@ It’s designed for speed, precision, and a clean, modern GUI
 
 2.	Install dependencies:
 
-    pip install -r requirements.txt
+       ```bash
+         pip install -r requirements.txt
 
-⸻
+---
 
 Requirements
+
 	•	Python 3.8+
 	•	OpenCV (cv2)
 	•	Pillow (PIL)
 	•	customtkinter
 
-⸻
+---
 
 Usage
 Run the app:
 
-python main.py
+      ```bash
+      python main.py
 
 Load an image, apply effects using sliders and buttons, preview changes instantly, and save your output.
 
-⸻
-
+---
 Screenshots
 
 
-⸻
+---
 
 Roadmap
+
 	•	Brightness / Hue Control
 	•	Sharpen & Blur
 	•	Advanced Filters (Sepia, Vintage, Glitch)
 	•	Layer-based Editing
 	•	Selection Tools (Lasso, Rectangle, Magic Wand)
 
-⸻
+---
 
 Contributing
 
