@@ -20,7 +20,7 @@ It’s designed for speed, precision, and a clean, modern GUI
    cd img-fx
 
 2.	Install dependencies:
-
+   ```bash
     pip install -r requirements.txt
 
 
