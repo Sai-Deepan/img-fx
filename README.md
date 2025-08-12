@@ -38,8 +38,8 @@ Requirements
 Usage
 Run the app:
 
-      ```bash
-            python main.py
+      
+         python main.py
 
 Load an image, apply effects using sliders and buttons, preview changes instantly, and save your output.
 
