@@ -21,8 +21,8 @@ It’s designed for speed, precision, and a clean, modern GUI
 
 2.	Install dependencies:
 
-   ```
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
+
 
 
 
