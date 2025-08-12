@@ -23,9 +23,6 @@ It’s designed for speed, precision, and a clean, modern GUI
 
     pip install -r requirements.txt
 
-
-
-
 ⸻
 
 Requirements
